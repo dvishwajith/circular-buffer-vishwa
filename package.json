@@ -1,0 +1,23 @@
+{
+  "name": "circular-buffer-vishwa",
+  "version": "1.0.0",
+  "description": "circular buffer with ability read multiple times",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dvishwajith/circular-buffer-vishwa.git"
+  },
+  "keywords": [
+    "circular",
+    "buffer"
+  ],
+  "author": "Dinushan Vishwajith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvishwajith/circular-buffer-vishwa/issues"
+  },
+  "homepage": "https://github.com/dvishwajith/circular-buffer-vishwa#readme"
+}
